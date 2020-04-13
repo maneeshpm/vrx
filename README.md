@@ -8,7 +8,8 @@ This is an active development project.  We are adding and improving things all t
 ![VRX](images/sand_island.png)
 
 ## Test result of target placard segmentation
-![VRX](images/Screenshot from 2020-04-13 12-50-52.png)
+
+![VRX](images/scren.png)
 
 ## VRX Phase 1 Submission
 [Link to the test video](https://drive.google.com/open?id=1HaKgVgKi1E_mPw1qXY4EJwMicGdt8ACC)
